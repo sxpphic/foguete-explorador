@@ -1,0 +1,19 @@
+.page {
+    width: 1008px;
+    height: 514px;
+    margin: 65px auto 0px; 
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 55px;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 48px;
+    margin: 0;;
+    padding: 0;
+}
