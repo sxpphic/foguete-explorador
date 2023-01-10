@@ -1,7 +1,13 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
 .page {
     width: 1008px;
     height: 514px;
     margin: 65px auto 0px; 
+
 }
 
 nav {
@@ -16,4 +22,16 @@ nav ul {
     gap: 48px;
     margin: 0;;
     padding: 0;
+}
+
+h1, ul {
+    font-family: 'Mulish', sans-serif;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li a:hover {
+    font-weight: bold;
 }
